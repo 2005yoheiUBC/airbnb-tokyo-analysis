@@ -8,7 +8,7 @@ Exploratory data analysis and price prediction for Tokyo Airbnb listings using 2
 - Entire home/apt dominates at **85% of listings**
 - Central wards (Minato, Chuo, Shinjuku) command the highest prices
 - Prices spike in **April** — cherry blossom season and Golden Week
-- Ridge regression achieves R²=0.13, MAE=¥6,910 — room type and neighbourhood alone explain ~10% of price variance
+- Ridge regression achieves R²=0.13, MAE=¥8,583 — room type and neighbourhood alone explain ~10% of price variance
 
 ## Structure
 
