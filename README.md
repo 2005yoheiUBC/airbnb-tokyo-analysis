@@ -1,6 +1,6 @@
 # Tokyo Airbnb Price Analysis
 
-Exploratory data analysis and price prediction for Tokyo Airbnb listings using 2024 [Inside Airbnb](http://insideairbnb.com/) data.
+Exploratory data analysis and price prediction for Tokyo Airbnb listings using 2025 [Inside Airbnb](http://insideairbnb.com/) data.
 
 ## Key Findings
 
